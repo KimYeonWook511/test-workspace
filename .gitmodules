@@ -1,0 +1,6 @@
+[submodule "test-dev"]
+	path = test-dev
+	url = https://github.com/KimYeonWook511/test-dev.git
+[submodule "test-config"]
+	path = test-config
+	url = https://github.com/KimYeonWook511/test-config.git
